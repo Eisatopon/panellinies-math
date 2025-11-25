@@ -7,27 +7,27 @@
       "topics": [
         {
           "id": "2025-H-A",
-          "code": "Α",
+          "code": "A",
           "label": "ΘΕΜΑ Α",
-          "html": "<p>Το Θέμα Α θα προστεθεί εδώ (HTML/MathJax από το PDF).</p>"
+          "html_url": "https://raw.githubusercontent.com/Eisatopon/panellinies-math/main/data/2025/imerisia/A.html"
         },
         {
           "id": "2025-H-B",
-          "code": "Β",
+          "code": "B",
           "label": "ΘΕΜΑ Β",
-          "html": "<p>Το Θέμα Β θα προστεθεί εδώ.</p>"
+          "html_url": "https://raw.githubusercontent.com/Eisatopon/panellinies-math/main/data/2025/imerisia/B.html"
         },
         {
           "id": "2025-H-C",
-          "code": "Γ",
+          "code": "C",
           "label": "ΘΕΜΑ Γ",
-          "html": "<p>Το Θέμα Γ θα προστεθεί εδώ.</p>"
+          "html_url": "https://raw.githubusercontent.com/Eisatopon/panellinies-math/main/data/2025/imerisia/C.html"
         },
         {
           "id": "2025-H-D",
-          "code": "Δ",
+          "code": "D",
           "label": "ΘΕΜΑ Δ",
-          "html": "<p>Το Θέμα Δ θα προστεθεί εδώ.</p>"
+          "html_url": "https://raw.githubusercontent.com/Eisatopon/panellinies-math/main/data/2025/imerisia/D.html"
         }
       ]
     }
