@@ -31,7 +31,6 @@
         }
       ]
     },
-
     "ΕΠΑΛ": {
       "title": "",
       "subtitle": "",
@@ -58,231 +57,235 @@
     }
   },
 
-"2024": {
-  "ΗΜΕΡΗΣΙΑ": {
-    "title": "",
-    "subtitle": "",
-    "pdf": "",
-    "topics": [
-      {
-        "id": "2024-H-A",
-        "code": "A",
-        "label": "ΘΕΜΑ Α",
-        "html_url": "https://raw.githubusercontent.com/Eisatopon/panellinies-math/main/data/2024/imerisia/A.html"
-      },
-      {
-        "id": "2024-H-B",
-        "code": "B",
-        "label": "ΘΕΜΑ Β",
-        "html_url": "https://raw.githubusercontent.com/Eisatopon/panellinies-math/main/data/2024/imerisia/B.html"
-      },
-      {
-        "id": "2024-H-C",
-        "code": "C",
-        "label": "ΘΕΜΑ Γ",
-        "html_url": "https://raw.githubusercontent.com/Eisatopon/panellinies-math/main/data/2024/imerisia/C.html"
-      },
-      {
-        "id": "2024-H-D",
-        "code": "D",
-        "label": "ΘΕΜΑ Δ",
-        "html_url": "https://raw.githubusercontent.com/Eisatopon/panellinies-math/main/data/2024/imerisia/D.html"
-      }
-    ]
+  "2024": {
+    "ΗΜΕΡΗΣΙΑ": {
+      "title": "",
+      "subtitle": "",
+      "pdf": "",
+      "topics": [
+        {
+          "id": "2024-H-A",
+          "code": "A",
+          "label": "ΘΕΜΑ Α",
+          "html_url": "https://raw.githubusercontent.com/Eisatopon/panellinies-math/main/data/2024/imerisia/A.html"
+        },
+        {
+          "id": "2024-H-B",
+          "code": "B",
+          "label": "ΘΕΜΑ Β",
+          "html_url": "https://raw.githubusercontent.com/Eisatopon/panellinies-math/main/data/2024/imerisia/B.html"
+        },
+        {
+          "id": "2024-H-C",
+          "code": "C",
+          "label": "ΘΕΜΑ Γ",
+          "html_url": "https://raw.githubusercontent.com/Eisatopon/panellinies-math/main/data/2024/imerisia/C.html"
+        },
+        {
+          "id": "2024-H-D",
+          "code": "D",
+          "label": "ΘΕΜΑ Δ",
+          "html_url": "https://raw.githubusercontent.com/Eisatopon/panellinies-math/main/data/2024/imerisia/D.html"
+        }
+      ]
+    },
+    "ΕΠΑΛ": {
+      "title": "",
+      "subtitle": "",
+      "pdf": "",
+      "topics": []
+    },
+    "ΟΜΟΓΕΝΕΙΣ": {
+      "title": "",
+      "subtitle": "",
+      "pdf": "",
+      "topics": []
+    },
+    "ΕΠΑΝΑΛΗΠΤΙΚΕΣ_Η": {
+      "title": "",
+      "subtitle": "",
+      "pdf": "",
+      "topics": []
+    },
+    "ΕΠΑΝΑΛΗΠΤΙΚΕΣ_ΕΠΑΛ": {
+      "title": "",
+      "subtitle": "",
+      "pdf": "",
+      "topics": []
+    }
   },
-  "ΕΠΑΛ": {
-    "title": "",
-    "subtitle": "",
-    "pdf": "",
-    "topics": []
+
+  "2023": {
+    "ΗΜΕΡΗΣΙΑ": {
+      "title": "",
+      "subtitle": "",
+      "pdf": "",
+      "topics": [
+        {
+          "id": "2023-H-A",
+          "code": "A",
+          "label": "ΘΕΜΑ Α",
+          "html_url": "https://raw.githubusercontent.com/Eisatopon/panellinies-math/main/data/2023/imerisia/A.html"
+        },
+        {
+          "id": "2023-H-B",
+          "code": "B",
+          "label": "ΘΕΜΑ Β",
+          "html_url": "https://raw.githubusercontent.com/Eisatopon/panellinies-math/main/data/2023/imerisia/B.html"
+        },
+        {
+          "id": "2023-H-C",
+          "code": "C",
+          "label": "ΘΕΜΑ Γ",
+          "html_url": "https://raw.githubusercontent.com/Eisatopon/panellinies-math/main/data/2023/imerisia/C.html"
+        },
+        {
+          "id": "2023-H-D",
+          "code": "D",
+          "label": "ΘΕΜΑ Δ",
+          "html_url": "https://raw.githubusercontent.com/Eisatopon/panellinies-math/main/data/2023/imerisia/D.html"
+        }
+      ]
+    },
+    "ΕΠΑΛ": {
+      "title": "",
+      "subtitle": "",
+      "pdf": "",
+      "topics": []
+    },
+    "ΟΜΟΓΕΝΕΙΣ": {
+      "title": "",
+      "subtitle": "",
+      "pdf": "",
+      "topics": []
+    },
+    "ΕΠΑΝΑΛΗΠΤΙΚΕΣ_Η": {
+      "title": "",
+      "subtitle": "",
+      "pdf": "",
+      "topics": []
+    },
+    "ΕΠΑΝΑΛΗΠΤΙΚΕΣ_ΕΠΑΛ": {
+      "title": "",
+      "subtitle": "",
+      "pdf": "",
+      "topics": []
+    }
   },
-  "ΟΜΟΓΕΝΕΙΣ": {
-    "title": "",
-    "subtitle": "",
-    "pdf": "",
-    "topics": []
+
+  "2022": {
+    "ΗΜΕΡΗΣΙΑ": {
+      "title": "",
+      "subtitle": "",
+      "pdf": "",
+      "topics": [
+        {
+          "id": "2022-H-A",
+          "code": "A",
+          "label": "ΘΕΜΑ Α",
+          "html_url": "https://raw.githubusercontent.com/Eisatopon/panellinies-math/main/data/2022/imerisia/A.html"
+        },
+        {
+          "id": "2022-H-B",
+          "code": "B",
+          "label": "ΘΕΜΑ Β",
+          "html_url": "https://raw.githubusercontent.com/Eisatopon/panellinies-math/main/data/2022/imerisia/B.html"
+        },
+        {
+          "id": "2022-H-C",
+          "code": "C",
+          "label": "ΘΕΜΑ Γ",
+          "html_url": "https://raw.githubusercontent.com/Eisatopon/panellinies-math/main/data/2022/imerisia/C.html"
+        },
+        {
+          "id": "2022-H-D",
+          "code": "D",
+          "label": "ΘΕΜΑ Δ",
+          "html_url": "https://raw.githubusercontent.com/Eisatopon/panellinies-math/main/data/2022/imerisia/D.html"
+        }
+      ]
+    },
+    "ΕΠΑΛ": {
+      "title": "",
+      "subtitle": "",
+      "pdf": "",
+      "topics": []
+    },
+    "ΟΜΟΓΕΝΕΙΣ": {
+      "title": "",
+      "subtitle": "",
+      "pdf": "",
+      "topics": []
+    },
+    "ΕΠΑΝΑΛΗΠΤΙΚΕΣ_Η": {
+      "title": "",
+      "subtitle": "",
+      "pdf": "",
+      "topics": []
+    },
+    "ΕΠΑΝΑΛΗΠΤΙΚΕΣ_ΕΠΑΛ": {
+      "title": "",
+      "subtitle": "",
+      "pdf": "",
+      "topics": []
+    }
   },
-  "ΕΠΑΝΑΛΗΠΤΙΚΕΣ_Η": {
-    "title": "",
-    "subtitle": "",
-    "pdf": "",
-    "topics": []
-  },
-  "ΕΠΑΝΑΛΗΠΤΙΚΕΣ_ΕΠΑΛ": {
-    "title": "",
-    "subtitle": "",
-    "pdf": "",
-    "topics": []
-  }
-}
-"2023": {
-  "ΗΜΕΡΗΣΙΑ": {
-    "title": "",
-    "subtitle": "",
-    "pdf": "",
-    "topics": [
-      {
-        "id": "2023-H-A",
-        "code": "A",
-        "label": "ΘΕΜΑ Α",
-        "html_url": "https://raw.githubusercontent.com/Eisatopon/panellinies-math/main/data/2024/imerisia/A.html"
-      },
-      {
-        "id": "2023-H-B",
-        "code": "B",
-        "label": "ΘΕΜΑ Β",
-        "html_url": "https://raw.githubusercontent.com/Eisatopon/panellinies-math/main/data/2024/imerisia/B.html"
-      },
-      {
-        "id": "2024-H-C",
-        "code": "C",
-        "label": "ΘΕΜΑ Γ",
-        "html_url": "https://raw.githubusercontent.com/Eisatopon/panellinies-math/main/data/2024/imerisia/C.html"
-      },
-      {
-        "id": "2023-H-D",
-        "code": "D",
-        "label": "ΘΕΜΑ Δ",
-        "html_url": "https://raw.githubusercontent.com/Eisatopon/panellinies-math/main/data/2024/imerisia/D.html"
-      }
-    ]
-  },
-  "ΕΠΑΛ": {
-    "title": "",
-    "subtitle": "",
-    "pdf": "",
-    "topics": []
-  },
-  "ΟΜΟΓΕΝΕΙΣ": {
-    "title": "",
-    "subtitle": "",
-    "pdf": "",
-    "topics": []
-  },
-  "ΕΠΑΝΑΛΗΠΤΙΚΕΣ_Η": {
-    "title": "",
-    "subtitle": "",
-    "pdf": "",
-    "topics": []
-  },
-  "ΕΠΑΝΑΛΗΠΤΙΚΕΣ_ΕΠΑΛ": {
-    "title": "",
-    "subtitle": "",
-    "pdf": "",
-    "topics": []
-  }
-}
-"2022": {
-  "ΗΜΕΡΗΣΙΑ": {
-    "title": "",
-    "subtitle": "",
-    "pdf": "",
-    "topics": [
-      {
-        "id": "2022-H-A",
-        "code": "A",
-        "label": "ΘΕΜΑ Α",
-        "html_url": "https://raw.githubusercontent.com/Eisatopon/panellinies-math/main/data/2024/imerisia/A.html"
-      },
-      {
-        "id": "2022-H-B",
-        "code": "B",
-        "label": "ΘΕΜΑ Β",
-        "html_url": "https://raw.githubusercontent.com/Eisatopon/panellinies-math/main/data/2024/imerisia/B.html"
-      },
-      {
-        "id": "2022-H-C",
-        "code": "C",
-        "label": "ΘΕΜΑ Γ",
-        "html_url": "https://raw.githubusercontent.com/Eisatopon/panellinies-math/main/data/2024/imerisia/C.html"
-      },
-      {
-        "id": "2022-H-D",
-        "code": "D",
-        "label": "ΘΕΜΑ Δ",
-        "html_url": "https://raw.githubusercontent.com/Eisatopon/panellinies-math/main/data/2024/imerisia/D.html"
-      }
-    ]
-  },
-  "ΕΠΑΛ": {
-    "title": "",
-    "subtitle": "",
-    "pdf": "",
-    "topics": []
-  },
-  "ΟΜΟΓΕΝΕΙΣ": {
-    "title": "",
-    "subtitle": "",
-    "pdf": "",
-    "topics": []
-  },
-  "ΕΠΑΝΑΛΗΠΤΙΚΕΣ_Η": {
-    "title": "",
-    "subtitle": "",
-    "pdf": "",
-    "topics": []
-  },
-  "ΕΠΑΝΑΛΗΠΤΙΚΕΣ_ΕΠΑΛ": {
-    "title": "",
-    "subtitle": "",
-    "pdf": "",
-    "topics": []
-  }
-}
-"2021": {
-  "ΗΜΕΡΗΣΙΑ": {
-    "title": "",
-    "subtitle": "",
-    "pdf": "",
-    "topics": [
-      {
-        "id": "2021-H-A",
-        "code": "A",
-        "label": "ΘΕΜΑ Α",
-        "html_url": "https://raw.githubusercontent.com/Eisatopon/panellinies-math/main/data/2024/imerisia/A.html"
-      },
-      {
-        "id": "2021-H-B",
-        "code": "B",
-        "label": "ΘΕΜΑ Β",
-        "html_url": "https://raw.githubusercontent.com/Eisatopon/panellinies-math/main/data/2024/imerisia/B.html"
-      },
-      {
-        "id": "2021-H-C",
-        "code": "C",
-        "label": "ΘΕΜΑ Γ",
-        "html_url": "https://raw.githubusercontent.com/Eisatopon/panellinies-math/main/data/2024/imerisia/C.html"
-      },
-      {
-        "id": "2021-H-D",
-        "code": "D",
-        "label": "ΘΕΜΑ Δ",
-        "html_url": "https://raw.githubusercontent.com/Eisatopon/panellinies-math/main/data/2024/imerisia/D.html"
-      }
-    ]
-  },
-  "ΕΠΑΛ": {
-    "title": "",
-    "subtitle": "",
-    "pdf": "",
-    "topics": []
-  },
-  "ΟΜΟΓΕΝΕΙΣ": {
-    "title": "",
-    "subtitle": "",
-    "pdf": "",
-    "topics": []
-  },
-  "ΕΠΑΝΑΛΗΠΤΙΚΕΣ_Η": {
-    "title": "",
-    "subtitle": "",
-    "pdf": "",
-    "topics": []
-  },
-  "ΕΠΑΝΑΛΗΠΤΙΚΕΣ_ΕΠΑΛ": {
-    "title": "",
-    "subtitle": "",
-    "pdf": "",
-    "topics": []
+
+  "2021": {
+    "ΗΜΕΡΗΣΙΑ": {
+      "title": "",
+      "subtitle": "",
+      "pdf": "",
+      "topics": [
+        {
+          "id": "2021-H-A",
+          "code": "A",
+          "label": "ΘΕΜΑ Α",
+          "html_url": "https://raw.githubusercontent.com/Eisatopon/panellinies-math/main/data/2021/imerisia/A.html"
+        },
+        {
+          "id": "2021-H-B",
+          "code": "B",
+          "label": "ΘΕΜΑ Β",
+          "html_url": "https://raw.githubusercontent.com/Eisatopon/panellinies-math/main/data/2021/imerisia/B.html"
+        },
+        {
+          "id": "2021-H-C",
+          "code": "C",
+          "label": "ΘΕΜΑ Γ",
+          "html_url": "https://raw.githubusercontent.com/Eisatopon/panellinies-math/main/data/2021/imerisia/C.html"
+        },
+        {
+          "id": "2021-H-D",
+          "code": "D",
+          "label": "ΘΕΜΑ Δ",
+          "html_url": "https://raw.githubusercontent.com/Eisatopon/panellinies-math/main/data/2021/imerisia/D.html"
+        }
+      ]
+    },
+    "ΕΠΑΛ": {
+      "title": "",
+      "subtitle": "",
+      "pdf": "",
+      "topics": []
+    },
+    "ΟΜΟΓΕΝΕΙΣ": {
+      "title": "",
+      "subtitle": "",
+      "pdf": "",
+      "topics": []
+    },
+    "ΕΠΑΝΑΛΗΠΤΙΚΕΣ_Η": {
+      "title": "",
+      "subtitle": "",
+      "pdf": "",
+      "topics": []
+    },
+    "ΕΠΑΝΑΛΗΠΤΙΚΕΣ_ΕΠΑΛ": {
+      "title": "",
+      "subtitle": "",
+      "pdf": "",
+      "topics": []
+    }
   }
 }
