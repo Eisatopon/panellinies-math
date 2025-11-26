@@ -30,6 +30,33 @@
           "html_url": "https://raw.githubusercontent.com/Eisatopon/panellinies-math/main/data/2025/imerisia/D.html"
         }
       ]
+    },
+
+    "ΕΠΑΛ": {
+      "title": "",
+      "subtitle": "",
+      "pdf": "",
+      "topics": []
+    },
+    "ΟΜΟΓΕΝΕΙΣ": {
+      "title": "",
+      "subtitle": "",
+      "pdf": "",
+      "topics": []
+    },
+    "ΕΠΑΝΑΛΗΠΤΙΚΕΣ_Η": {
+      "title": "",
+      "subtitle": "",
+      "pdf": "",
+      "topics": []
+    },
+    "ΕΠΑΝΑΛΗΠΤΙΚΕΣ_ΕΠΑΛ": {
+      "title": "",
+      "subtitle": "",
+      "pdf": "",
+      "topics": []
     }
-  }
+  },
+
+  "... άλλες χρονιές εδώ ..."
 }
